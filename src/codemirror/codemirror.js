@@ -9726,7 +9726,7 @@
   addLegacyProps(CodeMirror);
 
   CodeMirror.version = "5.43.0";
-
+  console.log('change')
   return CodeMirror;
 
 })));
